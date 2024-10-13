@@ -1,4 +1,4 @@
-- 👋 Hola a tothom, Sóc @AntoniBancells-Mentor-Robotica, mentor de robòtica a La Selva
+- 👋 Hola a tothom, Sócmentor de Robòtica a La Selva II
 - 👀 Estic interessat en crear un repositori d'activitats de pensament computacionali robòtica que impulsi el treball en xarxa en aquest àmbit
 - 🌱 Estic aprenent molt de tot tipus de dispositius  (robots o plaques) per poder poder assessorar millor als docents i centres.
 - 💞️ També cerco col·laborar col·laborar per intercanvanviar experiències
