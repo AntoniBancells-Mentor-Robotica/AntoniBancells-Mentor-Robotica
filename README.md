@@ -1,4 +1,4 @@
-- 👋 Hola a tothom, Sóc mentor de Robòtica a La Selva II
+- 👋 Hola a tothom, sóc mentor de Robòtica a La Selva II
 - 👀 Estic interessat en crear un repositori d'activitats de pensament computacionali robòtica que impulsi el treball en xarxa en aquest àmbit al món educatiu
 - 🌱 Estic en procés d'aprenentatge permanent de tot tipus de dispositius, ja siguin robots educatius o plaques. per poder dissenyar interessant aplicacions
 - 💞️ També cerco col·laborar col·laborar amb altres docents per poder intercanvanviar experiències
